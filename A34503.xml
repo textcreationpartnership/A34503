@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of an award referring to the publick markets of the city of London</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34503</idno>
+            <idno type="STC">Wing C6192</idno>
+            <idno type="STC">ESTC R36051</idno>
+            <idno type="EEBO-CITATION">15598301</idno>
+            <idno type="OCLC">ocm 15598301</idno>
+            <idno type="VID">104022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1589:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of an award referring to the publick markets of the city of London</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Shower, Bartholomew, Sir, 1658-1701.</author>
+                  <author>Wright, Nathan, Sir, 1654-1721.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the request and for the information of the market-people,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside cut into 2 leaves.</note>
+                  <note>"Signed, sealed, published and declared by the said Sir Nathan Wright and Sir Bartholomew Shower for and as their award, the same being duly stamped in the presence of Randolph Stracey, Stephen Johnson."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Retail trade --  Law and legislation --  England --  London.</term>
+               <term>Licenses --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:104022:1" rendition="simple:additions"/>
+            <head>A COPY OF AN AWARD Referring to the Publick Markets of the City of LONDON.</head>
+            <opener>
+               <salute>To all Chriſtian People</salute>
+            </opener>
+            <p>To whom theſe Preſents ſhall come, Sir <hi>Nathan Wright</hi> Knt. one of His Majeſties Serjeants at Law, and Sir <hi>Bartho<g ref="char:EOLhyphen"/>lomew Shower</hi> Knt. Send Greeting in our Lord God Everlaſting. <hi>Whereas</hi> Differences and Diſputes have heretofore been between divers Butchers, Gardeners, Fruiterers and others, Reſorting to the Publick Markets in the City of <hi>London,</hi> called <hi>Leaden-Hall</hi> Market, and the <hi>Green-Yards,</hi> with other Market-Grounds thereunto belonging, <hi>Woolchurch,</hi> alias <hi>Stocks</hi>-Market, <hi>Honey-Lane</hi> alias <hi>Milk-Street</hi> Market, and the Market near <hi>Newgate,</hi> commonly called <hi>Newgate</hi> Market, and <hi>Thomas Burdett</hi> and <hi>Thomas Kilner</hi> of <hi>London</hi> Gentlemen, and others, Farmers of the ſaid Markets, and the Profits thereby ariſing, Touching divers Fines, Sums of Money, Rents, Rates and Prizes, demanded and taken by the ſaid Farmers or their Agents, of the ſaid Butchers, Gardeners and others, Reſorting to the ſaid Markets for Stalls, Standings and Room in the ſaid Markets for Sale of their Wares and Commodities brought to the ſaid Markets to be Sold. <hi>And whereas</hi> ſeveral Indictments have been heretofore Proſecuted, and yet are Depending againſt the ſaid Farmers, or ſome of them, for Extortion in Exacting and Taking ſeveral Great Sums of Money of ſeveral Perſons for Standings and Stalls in the ſaid Markets, or ſome of them. All which ſaid Differences and Matters by the Rule of Court here<g ref="char:EOLhyphen"/>unto annexed, are referred to the Arbitrament and Final Determination of us the ſaid Sir <hi>Nathan Wright</hi> and Sir <hi>Bartholomew Shower,</hi> as by the ſaid Rule may more fully appear.</p>
+            <p>
+               <hi>Now Know Ye,</hi> That we the ſaid Sir <hi>Nathan Wright</hi> and Sir <hi>Bartholomew Shower</hi> having taken the ſaid Matters in Difference into our Conſideration, and being Aſſiſted herein by Sir <hi>William Hedges</hi> Knt. one of the Aldermen of the ſaid City of <hi>London,</hi> and others the Committee, appointed by the Common Council of the ſaid City for the better Regulating of the ſaid Publick Markets, Do Adjudge, Award, Order and Determine concerning the ſaid Premiſes as follows:
+<list>
+                  <item>I. We do Order and Appoint, That the ſaid Farmers ſhall within Two Months now next coming, Deliver up all Bonds and Notes, given to the ſaid Farmers, or any of them, or any other in truſt for them, or any of them, by any Butchers or other Perſons Reſorting to the ſaid Markets, either by themſelves, or by any other Perſons with or for them, for Pay<g ref="char:EOLhyphen"/>ment of any Sum or Sums of Money for Fines or Incomes, or advanced Rents, or for admittance or leave to Uſe or Occupy any Stall, Standing or Room in the ſaid Markets, or any of them, and that no Proceedings ſhall hereafter be had or Proſecuted upon any of the ſaid Bonds and Notes for Recovery of any Sum or Sums of Money thereupon pretended to be due and payable.</item>
+                  <item>II. We do Order and Appoint, That the ſaid Farmers <hi>Thomas Burdett</hi> and <hi>Thomas Kilner</hi> ſhall within Six Months now next enſuing, Pay or cauſe to be Paid to <hi>Peter Parker</hi> Citi<g ref="char:EOLhyphen"/>zen and Stationer of <hi>London,</hi> and <hi>Iſaac Grevil</hi> Citizen and Mercer of <hi>London</hi> or Order, the Sum of Four Hundred Pounds of lawful Money of <hi>England,</hi> to be by them Diſpoſed of in ſuch manner as herein after is appointed (that is to ſay) the Sum of Sixty and ſeven Pounds, three Shillings, ſix Pence part thereof, to be Paid to <hi>John Scott</hi> Gent. <hi>Thomas Goodwin, Robert Roundtree</hi> and <hi>Bennet del Turner,</hi> Proſecutors of the ſaid ſeveral Indictments, in full for their Coſts: And the Sum of Three Hundred Thirty and two Pounds, ſixteen Shillings and ſix Pence, reſidue of the ſaid Four Hundred Pounds, to be Paid and Diſtributed to and amongſt the ſeveral Perſons mentioned in a Schedule hereunto annexed, in ſuch Shares and Proportions as therein is appointed, the reſidue thereof; being in foil ſatisfaction of all Sum or Sums of Money ſuppoſed to be had or received by the ſaid Farmers for Fines or exceſſive Rents.</item>
+                  <item>III. We do further Order and Appoint, That from henceforth the ſaid Farmers, their Deputies, Agents or Servants, o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> any of them, ſhall not Exact, Demand or Take any Fines or Rewards, Sum or Sums of Money for admitting any Perſon to the Uſe or Occupation of any Stall, Standing or Room in any of the ſaid Markets, or for Rent of any ſuch Stall, Stand<g ref="char:EOLhyphen"/>ings or Room, Except ſuch Rents or Sums of Money as are appointed or allowed to be taken for the ſaid Stalls, Standings or Room, in the Act of <hi>Common-Council</hi> made the ſeventeenth Day of <hi>September,</hi> in the Year of our Lord 1674, and in the Mayoralty of Sir <hi>William Hooker</hi> Knt. late Lord Mayor of the ſaid City of <hi>London,</hi> Intituled, <hi>An Act for the ſettlement and well ordering of the ſeveral Publick Markets within the</hi> ſaid <hi>City of</hi> London.</item>
+                  <item>IV. We do Order and Appoint, That no Advance or Increaſe of Rent ſhall be Taken or Received for any Stall, Standing or Room in any of the ſaid Markets upon pretence of any extraordinary Conveniency or Accommodation hereafter to be made, above or more than the Expence and Real Charge of making ſuch extraordinary Conveniency or Accom<g ref="char:EOLhyphen"/>modation, Saving that where at the Requeſt of any Occupier any greater number of Feet, or greater Quantity of Ground ſhall be alotted to any Stall or Standing than is appointed by the ſaid Act of <hi>Common Council,</hi> Then and in ſuch Caſe the ſaid Farmers may require and take and Advanced Rent proportionably, and in proportion to the Rates appointed by the ſaid Act of <hi>Common Council.</hi>
+                  </item>
+                  <item>V. We do Order and Appoint, That the ſaid Farmers, their Executors Adminiſtrators or Aſſigns<g ref="char:punc">▪</g> ſhall not Remove any of the Occupiers of the ſaid Stalls or Standings now being, of that hereafter ſhall be by them thereto admitted<g ref="char:punc">▪</g> our of or from the ſaid Stalls or Standings without the free and voluntary conſent of ſuch Occupiers, Except for the non-payment of The Rent appointed to be Paid for the ſame by the ſaid Act of <hi>Common Council,</hi> or Breach of the Settled and Eſtabliſhed Rules of the ſaid Markets.</item>
+                  <item>VI. We do Order and Appoint, That the Occupiers of ſuch Stalls or Standings in any of the ſaid Markets, ſhall not Transfer or Aſſign over the Uſe or Occupation of any Stall or Standing in any of the ſaid Markets, to any Perſon or Perſons whatſoever, nor ſhall Uſe or Imploy the ſame otherwiſe than according to the Laws and Conſtitutions of the ſaid Markets.</item>
+                  <item>VII. We do Order and Appoint, That when any Stall or Standing in any of the ſaid Markets ſhall be vacant, it ſhall be in the Power of the ſaid Farmers to appoint ſuch Perſon or Perſons to have the ſame, as they the ſaid Farmers ſhall think ſit, without taking any Gratuity or Reward for preferring one before another or any Advance or Increaſe of Rents.</item>
+                  <pb facs="tcp:104022:2"/>
+                  <item> VIII. We do Order and Appoint, That no Perſon ſhall hereafter be compelled to pay to the ſaid Farmers any Rent or Sum of Money for Weights or Scales, Except ſuch perſons as ſell Fleſh, or other Commodities uſually ſold by Weight, And all Perſons uttering Fleſh or other Commodities uſually ſold by Weight, ſhall pay ſuch Rent or other Sum to the ſaid Farmers for finding ſuch Weights and Scales as is appointed or allowed by the ſaid Act of <hi>Common Council,</hi> whether ſuch Perſons uſe the ſaid Farmers Weights and Scales or not, And the ſaid Farmers are to provide a ſufficient Number of Weights and Scales for the uſe of the ſaid Perſons, and to keep the ſame in Publick and Convenient Places in each of the ſaid Mar<g ref="char:EOLhyphen"/>kets, for the uſe of the ſaid Perſons and others Reſorting to the ſaid Markets.</item>
+                  <item>IX. We do Order and Appoint, That the ſaid Farmers ſhall not Lett out the Stalls or Standings of the ſaid Markets for the Uſe or Exerciſe of any Trade, or Sale of any Commodi<g ref="char:EOLhyphen"/>ties thereon, other than the Proviſions uſually brought to the ſaid Markets, and by the Laws and Conſtitutions of the City of <hi>London</hi> allowed to be Sold there; And if the Occupiers of any ſuch Stall or Standing ſhall employ or uſe the ſame for Sale of any other Commodities than as aforeſaid, the ſaid Farmers ſhall upon Notice thereof, within convenient time, uſe their utmoſt lawful endeavours to remove ſuch Perſon from the uſe of ſuch Stall or Standing.</item>
+                  <item>X. We do Order and Appoint, That the Farmers ſhall hold their Markets only on ſuch Days, and at ſuch Hours in the Day, as by the Laws and Cuſtoms of the ſaid City of <hi>London</hi> for Conſtituting and Regulating the ſaid Markets are appointed.</item>
+                  <item>XI. We do Order and Appoint, That the ſaid Farmers ſhall not Lett out the Streets and Lanes of the ſaid City to Hawkers or other People bringing Food or Victuals not coming unto any Publick Market, nor ſhall the ſaid Farmers take any Money or other Reward from Perſons Hawking and Selling Roots, Green Peaſe, or other Proviſions through the ſaid Streets or Lanes or any of them.</item>
+                  <item>XII. <hi>Laſtly,</hi> We do hereby Order and Appoint, That in Caſe the ſaid <hi>Thomas Burdett</hi> and <hi>Thomas Kilner</hi> do Pay the ſaid Sum of Four Hundred Pounds, herein before ap<g ref="char:EOLhyphen"/>pointed to be Paid by them to the ſaid <hi>Peter Parker</hi> and <hi>Iſaac Grevil,</hi> according to the Appointment aforeſaid, Then all Perſons Proſecuting, or concerned in the Proſecution of the ſaid Farmers of the ſaid Markets or their Agents, for or upon account of any ſuppoſed Exactions, Extortions, or unlawful Tolls, Duties, Fines or Rents, or any other Matter or Thing whatſoever relating to the ſaid Markets, done, had, or committed, or ſuppoſed to be done, had or committed by the ſaid Farmers, their Agents or Servants at any time before the Day of the Date of the ſaid Rule of Reference, ſhall and do Declare their free Conſent before Mr. Attorney General for the Stay of all further Proſecution by reaſon of the Premiſes, and ſhall and do uſe their utmoſt endeavours for the procuring a <hi>Noli Proſequi</hi> to be Entred upon Record at the Charge of the ſaid Farmers, to and upon all Indictments, and Infor<g ref="char:EOLhyphen"/>mations upon the Account aforeſaid, found Exhibited or Commenced, or hereafter to be Commenced or Proſecuted touching or relating to the ſaid Premiſes, for any thing done or committed therein before the Date of the ſaid Rule. <hi>In Witneſs</hi> whereof, We the ſaid Sir <hi>Nathan Wright</hi> and Sir <hi>Bartholomew Shower</hi> have hereunto Set our Hands and Seals the Tenth Day of <hi>June</hi> in the Ninth Year of the Reign of our Sovereign Lord <hi>William</hi> the Third, By the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c. Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Domini</hi> 1697.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Nathan Wright.</item>
+                     <item>Bartholomew Shower.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Signed, Sealed, Publiſhed and Declared by the ſaid Sir <hi>Nathan Wright</hi> and Sir <hi>Bartholomew Shower</hi> for and as their Award, the ſame being duly Stamped in the Preſence of
+<list>
+                     <item>Randolph Stracey.</item>
+                     <item>Stephen Johnſon.</item>
+                  </list>
+               </p>
+            </postscript>
+         </div>
+         <div type="list_of_rates_and_tolls">
+            <head>The Rates, Tolls and Duties, as Settled and Appointed to be Taken by the Act of <hi>Common-Council,</hi> 17 <hi>Septemb.</hi> 1674. which the Farmers in the Covenants of their Leaſe are obliged not to Exceed, on the Penalty of <hi>Ten Pounds</hi> for every Offence, are as followeth, <hi>Viz.</hi>
+            </head>
+            <list>
+               <item>FOR every Stall or Standing of Eight Foot long, and Four Foot broad, for Sale of Fleſh-Meat or Fiſh. <hi>2 s. 6 d. per</hi> Week.</item>
+               <item>For every Stall or Standing of Six foot long, and four foot broad, <hi>2 s. per</hi> Week.</item>
+               <item>For every Stall or Standing of ſix or eight foot long, and four foot broad, for other Commodities, <hi>3 d. per</hi> Day.</item>
+               <item>For every Horſe-Load of Proviſions, not upon Stalls, nor under Publick Shelter, <hi>2 d. per</hi> Day:</item>
+               <item>For every Doſſer of like Proviſions, <hi>1 d. per</hi> Day.</item>
+               <item>For every Cart-Load, with not above Three Horſes, <hi>4 d. per</hi> Day.</item>
+               <item>For every Cart-Load with Four Horſes, or above, <hi>6 d. per</hi> Day.</item>
+               <item>For all Fruit brought by Land or Water, and pitched in any of the Publick Mar<g ref="char:EOLhyphen"/>kets; for each Prickel or Basket, holding not above one Buſhel, one <hi>half-penny per</hi> Day.</item>
+               <item>For each Basket, Doſſer or Maund, holding above two Buſhels, <hi>1 d. per</hi> Day: To be paid by the People that bring or receive them.</item>
+               <item>For every Standing of ſix foot ſquare, for the Gardeners, <hi>20 s. per Annum.</hi>
+               </item>
+               <item>For every Standing for the Poorer ſort of Country People, bringing Weeds and Phyſick-Herbs, of four foot long, and two foot broad, <hi>1 d. per</hi> Day.</item>
+               <item>For every Standing for Fruit-Sellers and ſtanding Herb-Women, not above eight foot long and four foot broad, or ſix foot ſquare, <hi>12 d. per</hi> Week.</item>
+               <item>For every Standing for Bakers and Ginger-bread Sellers, not above ſour foot long, and three foot broad, <hi>6 d. per</hi> Week.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed at the Requeſt, and for the Information of the Market-People, 1697.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
